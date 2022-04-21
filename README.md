@@ -1,2 +1,2 @@
-# Tarea.23-03
-Tarea del día 23/03
+# Tarea de Javascript
+En este repositrio muestro mis tareas de javascript.
