@@ -48,5 +48,4 @@ function cartelera() {
             `<b>Sinopsis:</b> ${presentacion.sinopsis}. <br/><br/>`
         );
     });
-    
 };
