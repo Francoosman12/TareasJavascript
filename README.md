@@ -1,2 +1,2 @@
 # Tarea de Javascript
-En este repositrio muestro mis tareas de javascript.
+En este repositorio muestro mis tareas de javascript.
